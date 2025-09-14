@@ -68,6 +68,5 @@ ecommerce-analytics-python/
 │   └── ecommerce_analysis.ipynb   
 │── reports/
 │   └── charts/                    
-│── README.md                      
-│── requirements.txt               
+│── README.md              
 
